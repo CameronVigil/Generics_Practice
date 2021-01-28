@@ -1,5 +1,6 @@
  /**
-*Description: 
+*Description: This project generates a list of 10 random integers and sorts them in ascending order. This project is
+*to better understand how generics are used in Java.
 *Class: Fall - COSC 2436.82401
 *Assignment1: Generics
 *Date: 01/25/2021
